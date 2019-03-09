@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM scratch
 
 ADD k8s-issue-74839 /k8s-issue-74839
 
